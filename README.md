@@ -13,6 +13,7 @@
 ---
 
 ## 🧰 Tech Stack
+
 <!-- tktk - List of technologies used in the project, example below: -->
 <!-- - **Next.js** – React framework for optimized rendering
 - **React** – Modular component architecture
@@ -29,6 +30,7 @@
 ---
 
 ## 📐 Features
+
 <!-- tktk - List of features implemented in the project, example below: -->
 <!-- - Responsive layout that adapts to mobile and desktop screens
 - Share icon that toggles visibility of social media links
@@ -38,6 +40,7 @@
 ---
 
 ## 💡 Highlights & Learnings
+
 <!-- tktk - Key takeaways from the project, example below: -->
 <!-- During this build, I focused on:
 
@@ -49,6 +52,7 @@
 ---
 
 ## 🚧 Areas for Future Iteration
+
 <!-- tktk - Potential improvements or features to add in the future, example below: -->
 <!-- - Add keyboard accessibility for the share toggle
 - Animate the share menu with a slide or fade effect
@@ -57,9 +61,11 @@
 ---
 
 ## 📚 Resources & Credits
+
 <!-- tktk - List of resources used in the project, example below: -->
+
 - [Frontend Mentor Challenge](tktk) – Original mockup and layout specs
-<!-- - [CSS Tricks - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  <!-- - [CSS Tricks - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) – Reference for web standards -->
 
 ---
